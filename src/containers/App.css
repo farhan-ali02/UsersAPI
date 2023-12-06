@@ -1,0 +1,11 @@
+.font {
+    font-size: 1rem; /* Adjust the font size as needed */
+    color: #83621c; /* Change the text color as desired */
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px; /* Adjust letter spacing */
+    text-shadow: 1px 1px 0 #b47562, /* Adjust shadow offsets and colors */
+                 2px 2px 0 #243031,
+                 4px 4px 0 #7ea355;
+    /* Add more text-shadow lines for more depth */
+}
